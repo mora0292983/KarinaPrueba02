@@ -5,6 +5,8 @@
         <h2 id="title"><%: Title %>.<asp:CheckBox ID="CheckBox1" runat="server" />
             <asp:Calendar ID="Calendar1" runat="server" OnSelectionChanged="Calendar1_SelectionChanged"></asp:Calendar>
     </h2>
+        <asp:Panel ID="Panel1" runat="server">
+    </asp:Panel>
         <h3>Your application description page.</h3>
         <p>Use this area to provide additional information.</p>
     </main>
