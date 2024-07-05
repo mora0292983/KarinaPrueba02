@@ -33,6 +33,24 @@ namespace Proyecto
 		protected global::System.Web.UI.WebControls.Calendar Calendar1;
 
 		/// <summary>
+		/// Control ImageMap1.
+		/// </summary>
+		/// <remarks>
+		/// Campo generado automáticamente.
+		/// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+		/// </remarks>
+		protected global::System.Web.UI.WebControls.ImageMap ImageMap1;
+
+		/// <summary>
+		/// Control CheckBox2.
+		/// </summary>
+		/// <remarks>
+		/// Campo generado automáticamente.
+		/// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+		/// </remarks>
+		protected global::System.Web.UI.WebControls.CheckBox CheckBox2;
+
+		/// <summary>
 		/// Control RadioButtonList1.
 		/// </summary>
 		/// <remarks>
