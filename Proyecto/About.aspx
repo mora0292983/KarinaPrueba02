@@ -19,6 +19,8 @@
     </asp:Panel>
         <h3>Your application description page.<asp:Image ID="Image1" runat="server" />
     </h3>
-        <p>Use this area to provide additional information.</p>
+        <p>Use this area to provide additional information.<asp:RadioButtonList ID="RadioButtonList2" runat="server">
+            </asp:RadioButtonList>
+    </p>
     </main>
 </asp:Content>
