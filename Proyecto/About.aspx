@@ -9,6 +9,8 @@
             <asp:CheckBox ID="CheckBox2" runat="server" />
             <asp:RadioButtonList ID="RadioButtonList1" runat="server">
             </asp:RadioButtonList>
+            <asp:ImageMap ID="ImageMap2" runat="server">
+            </asp:ImageMap>
     </h2>
         <h3>Your application description page.<asp:Image ID="Image1" runat="server" />
     </h3>
