@@ -10,7 +10,8 @@
             <asp:RadioButtonList ID="RadioButtonList1" runat="server">
             </asp:RadioButtonList>
     </h2>
-        <h3>Your application description page.</h3>
+        <h3>Your application description page.<asp:Image ID="Image1" runat="server" />
+    </h3>
         <p>Use this area to provide additional information.</p>
     </main>
 </asp:Content>
