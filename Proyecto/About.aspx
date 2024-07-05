@@ -4,6 +4,7 @@
     <main aria-labelledby="title">
         <h2 id="title"><%: Title %>.<asp:CheckBox ID="CheckBox1" runat="server" />
             <asp:Calendar ID="Calendar1" runat="server" OnSelectionChanged="Calendar1_SelectionChanged"></asp:Calendar>
+            <asp:Image ID="Image1" runat="server" />
             <asp:RadioButtonList ID="RadioButtonList1" runat="server">
             </asp:RadioButtonList>
     </h2>
